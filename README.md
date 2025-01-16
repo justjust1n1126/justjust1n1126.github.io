@@ -6,6 +6,7 @@ Welcome to my website where I showcase my creations!
 - My Hangman Game
 - Paper Beats Rock Not Scissors
 - Calculator
+- Snake
 
 ## Play my Hangman Game
 [Play My Hangman Game](/my-hangman-game)
@@ -14,4 +15,7 @@ Welcome to my website where I showcase my creations!
 [Play Paper Beats Rock Not Scissors](/pbrns/paperbeatsrocknotscissors)
 
 ## Use my calculator. 
-[Use the Calculator(not fully done.)](/calculat0r)
+[Use the Calculator(not fully done. full release 2/14/25)](/calculat0r)
+
+## Play snake!
+[Play Snake! (full release 2/10/25)](/snake)
