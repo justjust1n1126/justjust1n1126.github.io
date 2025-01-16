@@ -18,4 +18,4 @@ Welcome to my website where I showcase my creations!
 [Use the Calculator(not fully done. full release 2/14/25)](/calculat0r)
 
 ## Play snake!
-[Play Snake! (full release 2/10/25)](/snake)
+[Play Snake! (full release 2/10/25 NOT FULLY FUNCTIONAL!!!!!!!!)](/snake)
