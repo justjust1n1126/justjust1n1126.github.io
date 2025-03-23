@@ -3,6 +3,7 @@
 Welcome to my website where I showcase my creations!
 
 ## Table of Contents
+----------------------- Normal HTML, CSS, JS 
 - My Hangman Game
 - Paper Beats Rock Not Scissors
 - Calculator
@@ -11,12 +12,12 @@ Welcome to my website where I showcase my creations!
 - Password generator
 -  Celebrate a birthday
 -  Valentine's day request
--  Spinning box
--  Spinning sphere
--  Spinning donut
--  A dedecahedron
-
--  A ring
+  ----------------------- ALL MY A-FRAME HTML WORK 
+  - Spinning box
+  - Spinning sphere
+  - Spinning donut
+  - A dedecahedron
+  - A ring
 ## Play my Hangman Game
 [Play My Hangman Game](/my-hangman-game)
 
