@@ -22,7 +22,7 @@ Welcome to my website where I showcase my creations!
 [Play My Hangman Game](/my-hangman-game)
 
 ## Paper Beats Rock, Not Scissors
-[Play Paper Beats Rock Not Scissors (full release 2/18/25)](/pbrns/paperbeatsrocknotscissors)
+[Play Paper Beats Rock Not Scissors (full release 2/18/25)](/pbrns)
 
 ## Use my calculator. 
 [Use the Calculator](/calculat0r)
