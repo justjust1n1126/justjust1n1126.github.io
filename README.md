@@ -3,7 +3,7 @@
 Welcome to my website where I showcase my creations!
 
 ## Table of Contents
------------------------ Normal HTML, CSS, JS 
+----------------------- Normal HTML, CSS, JS -------------------
 - My Hangman Game
 - Paper Beats Rock Not Scissors
 - Calculator
@@ -12,7 +12,7 @@ Welcome to my website where I showcase my creations!
 - Password generator
 -  Celebrate a birthday
 -  Valentine's day request
-  ----------------------- ALL MY A-FRAME HTML WORK 
+-  ----------------------- ALL MY A-FRAME HTML WORK -------------------------
   - Spinning box
   - Spinning sphere
   - Spinning donut
@@ -52,8 +52,8 @@ Welcome to my website where I showcase my creations!
 ## Spinning donut
 [Spinning donut. (the shape is really called a torus)](/donut)
 
-## A dedecahedron
-[Whatever a dedecahedron is, it's spinning.](/dedecahedron)
+## A dodecahedron
+[Whatever a dodecahedron is, it's spinning.](/dodecahedron)
 
 ## A ring
 [Not the ring you'd put on someones finger. Its basically a 2D donut so it tends to disappear once it rotates to its side.](/ring)
